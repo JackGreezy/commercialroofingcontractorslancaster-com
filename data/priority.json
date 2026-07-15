@@ -1,0 +1,66 @@
+{
+  "services": [
+    "commercial-roof-leak-repair",
+    "commercial-roof-inspection",
+    "commercial-roof-tear-off-replacement",
+    "commercial-reroofing",
+    "storm-damage-roof-repair",
+    "emergency-tarp-dry-in",
+    "preventive-maintenance-programs",
+    "tpo-single-ply-roofing",
+    "roof-recover-overlay",
+    "silicone-roof-coatings",
+    "acrylic-roof-coatings",
+    "epdm-commercial-roofing",
+    "pvc-roofing",
+    "modified-bitumen-roofing",
+    "built-up-roofing",
+    "standing-seam-metal-roofing",
+    "metal-r-panel-roofing",
+    "roof-drains-scuppers",
+    "edge-metal-coping-gutters",
+    "insurance-documentation-support"
+  ],
+  "industries": [
+    "property-management-firms",
+    "manufacturing-operators",
+    "retail-chain-operators",
+    "education-facilities",
+    "healthcare-systems",
+    "general-contractors",
+    "government-public-sector",
+    "insurance-restoration"
+  ],
+  "roof-systems": [
+    "tpo-60-mil",
+    "tpo-80-mil",
+    "pvc-roof-systems",
+    "epdm-black",
+    "epdm-white",
+    "modified-bitumen-sbs",
+    "silicone-roof-coating",
+    "spray-polyurethane-foam"
+  ],
+  "project-types": [
+    "warehouse-roofing",
+    "manufacturing-plant-roofing",
+    "distribution-center-roofing",
+    "multi-tenant-retail-strip-roofing",
+    "hospital-surgery-center-roofing",
+    "medical-office-building-roofing",
+    "k12-school-roofing",
+    "food-processing-facility-roofing",
+    "grocery-store-roofing",
+    "hotel-hospitality-roofing",
+    "senior-living-facility-roofing",
+    "event-venue-roofing"
+  ],
+  "manufacturers": [
+    "gaf-commercial",
+    "carlisle-syntec",
+    "holcim-elevate",
+    "sika-sarnafil",
+    "johns-manville",
+    "versico"
+  ]
+}

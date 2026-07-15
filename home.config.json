@@ -1,0 +1,28 @@
+{
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/commercial-roofing/commercialroofingcontractorslancaster-com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/commercial-roofing/commercialroofingcontractorslancaster-com",
+  "biz": "Commercial Roofing Contractors of Lancaster",
+  "businessName": "Commercial Roofing Contractors of Lancaster",
+  "city": "Lancaster",
+  "state": "Pennsylvania",
+  "region": "Lancaster County, the Susquehanna Valley, and nearby southeastern Pennsylvania communities",
+  "domain": "commercialroofingcontractorslancaster.com",
+  "phone": "555-555-6148",
+  "email": "hello@commercialroofingcontractorslancaster.com",
+  "address": "101 N Queen St, Suite 400, Lancaster, PA 17603",
+  "vertical": "commercial-roofing",
+  "hero_image": "/ours/locations/commercial-roofing-contractors-lancaster-pa-01.webp",
+  "wordmark_l1": "Commercial Roofing Contractors",
+  "wordmark_l2": "of Lancaster",
+  "nav": [
+    ["Services", "/services"],
+    ["Roof Systems", "/roof-systems"],
+    ["Industries", "/industries"],
+    ["Project Types", "/project-types"],
+    ["Service Areas", "/locations"],
+    ["Contact", "/contact"]
+  ],
+  "cta": ["Request a Roof Assessment", "/contact"],
+  "ref_host": "holderconstruction-com",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json"
+}

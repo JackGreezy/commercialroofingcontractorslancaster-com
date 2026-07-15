@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.vercel/
+qa-out/
+playwright-report/
+test-results/
+coverage/
+.DS_Store
+*.tsbuildinfo
+*.log
+__pycache__/
+*.pyc
+public/**/*.ref
+public/capture-manifest.json
+.env
+.env.*
+!.env.example
