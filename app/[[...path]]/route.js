@@ -5,6 +5,12 @@ export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
 
 const publicDir = path.join(process.cwd(), "public");
+const analytics = '<script defer src="/_vercel/insights/script.js" data-sdkn="@vercel/analytics/next" data-sdkv="2.0.1"></script>';
+
+function withVercelAnalytics(html) {
+  if (!html || html.includes("/_vercel/insights/script.js")) return html;
+  return /<\/head>/i.test(html) ? html.replace(/<\/head>/i, `${analytics}\n</head>`) : `${analytics}\n${html}`;
+}
 
 function routeFromParams(params = {}) {
   const parts = Array.isArray(params.path) ? params.path : [];
@@ -42,7 +48,7 @@ function withRuntimeAdditions(html, request) {
 async function htmlResponse(parts, request, status = 200) {
   const html = await readFirst(pageCandidates(parts));
   if (!html) return null;
-  return new Response(withRuntimeAdditions(html, request), {
+  return new Response(withVercelAnalytics(withRuntimeAdditions(html, request)), {
     status,
     headers: {
       "content-type": "text/html; charset=utf-8",
