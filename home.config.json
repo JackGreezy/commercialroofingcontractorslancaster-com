@@ -15,14 +15,37 @@
   "wordmark_l1": "Commercial Roofing Contractors",
   "wordmark_l2": "of Lancaster",
   "nav": [
-    ["Services", "/services"],
-    ["Roof Systems", "/roof-systems"],
-    ["Industries", "/industries"],
-    ["Project Types", "/project-types"],
-    ["Service Areas", "/locations"],
-    ["Contact", "/contact"]
+    [
+      "Services",
+      "/services"
+    ],
+    [
+      "Roof Systems",
+      "/roof-systems"
+    ],
+    [
+      "Industries",
+      "/industries"
+    ],
+    [
+      "Project Types",
+      "/project-types"
+    ],
+    [
+      "Service Areas",
+      "/locations"
+    ],
+    [
+      "Contact",
+      "/contact"
+    ]
   ],
-  "cta": ["Request a Roof Assessment", "/contact"],
+  "cta": [
+    "Request a Roof Assessment",
+    "/contact"
+  ],
   "ref_host": "holderconstruction-com",
-  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json"
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json",
+  "privacyEffectiveDate": "March 4, 2026",
+  "termsEffectiveDate": "June 11, 2026"
 }
