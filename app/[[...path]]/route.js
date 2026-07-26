@@ -59,6 +59,15 @@ async function htmlResponse(parts, request, status = 200) {
 
 export async function GET(request, context) {
   const parts = routeFromParams(await context.params);
+  if (parts.join("/") === "_serverless/pro-gallery-css-v4-server/layoutCss") {
+    return new Response("/* Gallery layout is pre-rendered in the page markup. */", {
+      status: 200,
+      headers: {
+        "content-type": "text/css; charset=utf-8",
+        "cache-control": "public, max-age=86400, s-maxage=86400"
+      }
+    });
+  }
   const page = await htmlResponse(parts, request);
   if (page) return page;
   const notFound = await htmlResponse(["404"], request, 404);
