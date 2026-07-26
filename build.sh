@@ -14,7 +14,7 @@ CAP=$ROOT/David/clones/_captures/$REFHOST-v1
 [ -f "$MAP" ] || { echo "MISSING $MAP"; exit 1; }
 
 if [ ! -f "$CAP/public/home.html.ref" ]; then
-  node "$S/faithful-home.mjs" --src "https://www.ndurh.com/" --pages "$PAGES" --dir "$CAP"
+  node "$S/faithful-home.mjs" --src "https://www.holder.com/" --pages "$PAGES" --dir "$CAP"
 fi
 mkdir -p "$PROJ/public"
 cp "$CAP"/public/*.html.ref "$PROJ/public/" 2>/dev/null || true
