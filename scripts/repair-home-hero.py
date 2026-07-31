@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Restore Lancaster's relabeled hero copy above the captured hero image."""
+"""Restore Lancaster's hero and remove the donor's duplicate mobile logo."""
 
+from bs4 import BeautifulSoup
 from pathlib import Path
 import re
 import sys
@@ -70,3 +71,25 @@ for path in (public / "home.html", public / "index.html"):
         changed += 1
 
 print(f"Lancaster home hero repaired: pages={changed}")
+
+duplicate_logos_removed = 0
+duplicate_pages_changed = 0
+for path in public.rglob("*.html"):
+    original = path.read_text(errors="ignore")
+    soup = BeautifulSoup(original, "html.parser")
+    page_changed = False
+    for logo in soup.select(
+        '[data-hook="hamburger-overlay-root"] img.rr-brand-logo'
+    ):
+        wordmark = logo.find_parent("a", class_="rr-wordmark")
+        (wordmark or logo).decompose()
+        duplicate_logos_removed += 1
+        page_changed = True
+    if page_changed:
+        path.write_text(str(soup))
+        duplicate_pages_changed += 1
+
+print(
+    "Lancaster duplicate mobile logos removed: "
+    f"logos={duplicate_logos_removed} pages={duplicate_pages_changed}"
+)
