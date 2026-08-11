@@ -3,9 +3,10 @@
   "name": "Commercial Roofing Contractors of Lancaster",
   "city": "Lancaster",
   "region": "Lancaster County, the Susquehanna Valley, and nearby southeastern Pennsylvania communities",
-  "phone": "555-555-6148",
+  "phone": "",
   "email": "hello@commercialroofingcontractorslancaster.com",
-  "domain": "commercialroofingcontractorslancaster.com"
+  "domain": "commercialroofingcontractorslancaster.com",
+  "vertical": "commercial-roofing"
  },
  "taxonomies": {
   "locations": {
