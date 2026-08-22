@@ -1,6 +1,14 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
+function withRankHoundConversionEvents(html) {
+  if (!html || html.includes('/rankhound-conversion-events.js')) return html;
+  const tracking = '<script defer src="/rankhound-conversion-events.js"></script>';
+  return /<\/body>/i.test(html)
+    ? html.replace(/<\/body>/i, tracking + "\n</body>")
+    : html + "\n" + tracking;
+}
+
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
 
@@ -8,8 +16,15 @@ const publicDir = path.join(process.cwd(), "public");
 const analytics = '<script defer src="/_vercel/insights/script.js" data-sdkn="@vercel/analytics/next" data-sdkv="2.0.1"></script>';
 
 function withVercelAnalytics(html) {
-  if (!html || html.includes("/_vercel/insights/script.js")) return html;
-  return /<\/head>/i.test(html) ? html.replace(/<\/head>/i, `${analytics}\n</head>`) : `${analytics}\n${html}`;
+  if (!html) return html;
+  let result = html;
+  if (!result.includes('/_vercel/insights/script.js')) {
+    const analytics = '<script defer src="/_vercel/insights/script.js" data-sdkn="@vercel/analytics/next" data-sdkv="2.0.1"></script>';
+    result = /<\/head>/i.test(result)
+      ? result.replace(/<\/head>/i, analytics + "\n</head>")
+      : analytics + "\n" + result;
+  }
+  return withRankHoundConversionEvents(result);
 }
 
 function routeFromParams(params = {}) {
