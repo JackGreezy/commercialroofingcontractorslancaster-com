@@ -11,7 +11,7 @@
  "taxonomies": {
   "locations": {
    "title": "Service Areas",
-   "route": "/locations",
+   "route": "/service-areas",
    "items": [
     {
      "slug": "adamstown",
@@ -27,23 +27,23 @@
      "related": [
       {
        "label": "Commercial Roof Systems for Lititz's Production Campuses and Legacy Buildings",
-       "href": "/locations/lititz"
+       "href": "/service-areas/lititz"
       },
       {
        "label": "Roofing Contractors for Manheim Township's Office Parks and Retail Buildings",
-       "href": "/locations/manheim-township"
+       "href": "/service-areas/manheim-township"
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Sheet Metal Detail Work at the Point Where Most Roofs Actually Fail First",
@@ -93,23 +93,23 @@
      "related": [
       {
        "label": "Roofing for the Route 23 Industrial and Ag-Business Strip in Leola",
-       "href": "/locations/leola"
+       "href": "/service-areas/leola"
       },
       {
        "label": "Commercial Roof Systems for Lititz's Production Campuses and Legacy Buildings",
-       "href": "/locations/lititz"
+       "href": "/service-areas/lititz"
       },
       {
        "label": "Roofing Contractors for Manheim Township's Office Parks and Retail Buildings",
-       "href": "/locations/manheim-township"
+       "href": "/service-areas/manheim-township"
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Silicone Restoration for Senior Living Roofs That Can't Take Downtime",
@@ -159,23 +159,23 @@
      "related": [
       {
        "label": "Roofing Concrete Plant and Small Borough Buildings in Terre Hill",
-       "href": "/locations/terre-hill"
+       "href": "/service-areas/terre-hill"
       },
       {
        "label": "Roofing Senior Living Campuses and Retail Along Route 272 in Willow Street",
-       "href": "/locations/willow-street"
+       "href": "/service-areas/willow-street"
       },
       {
        "label": "Antique Market and Retail Roofing in Adamstown",
-       "href": "/locations/adamstown"
+       "href": "/service-areas/adamstown"
       },
       {
        "label": "Roofing for Akron, Pennsylvania's Small Commercial Core",
-       "href": "/locations/akron"
+       "href": "/service-areas/akron"
       },
       {
        "label": "Roofing Work for Brownstown's Route 272 Commercial Strip",
-       "href": "/locations/brownstown"
+       "href": "/service-areas/brownstown"
       },
       {
        "label": "Repairing What Wind, Hail, and Heavy Snow Actually Do to a Flat Roof",
@@ -225,23 +225,23 @@
      "related": [
       {
        "label": "Roofing for Bird-in-Hand's Smorgasbords, Markets, and Inns",
-       "href": "/locations/bird-in-hand"
+       "href": "/service-areas/bird-in-hand"
       },
       {
        "label": "Roofing for Christiana's Rail-Side Warehouses and Suppliers",
-       "href": "/locations/christiana"
+       "href": "/service-areas/christiana"
       },
       {
        "label": "Roof Replacement and Repair for Columbia's Riverfront Commercial Buildings",
-       "href": "/locations/columbia"
+       "href": "/service-areas/columbia"
       },
       {
        "label": "Distribution and Cold-Storage Roofing at the Denver Interchange",
-       "href": "/locations/denver"
+       "href": "/service-areas/denver"
       },
       {
        "label": "Roofing for Downtown Lancaster's Office, Market, and Hotel Buildings",
-       "href": "/locations/downtown-lancaster"
+       "href": "/service-areas/downtown-lancaster"
       },
       {
        "label": "Recover and Overlay Options for Multi-Year Capital Plans",
@@ -291,23 +291,23 @@
      "related": [
       {
        "label": "Roofing for Strasburg, Pennsylvania's Rail-Tourism District",
-       "href": "/locations/strasburg"
+       "href": "/service-areas/strasburg"
       },
       {
        "label": "Roofing Concrete Plant and Small Borough Buildings in Terre Hill",
-       "href": "/locations/terre-hill"
+       "href": "/service-areas/terre-hill"
       },
       {
        "label": "Roofing Senior Living Campuses and Retail Along Route 272 in Willow Street",
-       "href": "/locations/willow-street"
+       "href": "/service-areas/willow-street"
       },
       {
        "label": "Antique Market and Retail Roofing in Adamstown",
-       "href": "/locations/adamstown"
+       "href": "/service-areas/adamstown"
       },
       {
        "label": "Roofing for Akron, Pennsylvania's Small Commercial Core",
-       "href": "/locations/akron"
+       "href": "/service-areas/akron"
       },
       {
        "label": "TPO Specs for the Turnpike-Exit Warehouse Corridor",
@@ -357,23 +357,23 @@
      "related": [
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Roofing Along Paradise's Route 30 Tourism Strip",
-       "href": "/locations/paradise"
+       "href": "/service-areas/paradise"
       },
       {
        "label": "Acrylic Coatings for the Amish-Country Tourism Strip",
@@ -419,23 +419,23 @@
      "related": [
       {
        "label": "Commercial Roof Systems for Lititz's Production Campuses and Legacy Buildings",
-       "href": "/locations/lititz"
+       "href": "/service-areas/lititz"
       },
       {
        "label": "Roofing Contractors for Manheim Township's Office Parks and Retail Buildings",
-       "href": "/locations/manheim-township"
+       "href": "/service-areas/manheim-township"
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "PVC for Roofs That Live Above Grease, Steam, and Kitchen Exhaust",
@@ -485,23 +485,23 @@
      "related": [
       {
        "label": "Roofing for the Route 23 Industrial and Ag-Business Strip in Leola",
-       "href": "/locations/leola"
+       "href": "/service-areas/leola"
       },
       {
        "label": "Commercial Roof Systems for Lititz's Production Campuses and Legacy Buildings",
-       "href": "/locations/lititz"
+       "href": "/service-areas/lititz"
       },
       {
        "label": "Roofing Contractors for Manheim Township's Office Parks and Retail Buildings",
-       "href": "/locations/manheim-township"
+       "href": "/service-areas/manheim-township"
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "R-Panel Metal for the Turnpike-Exit Warehouse and Auto Auction Corridor",
@@ -551,23 +551,23 @@
      "related": [
       {
        "label": "Roofing Senior Living Campuses and Retail Along Route 272 in Willow Street",
-       "href": "/locations/willow-street"
+       "href": "/service-areas/willow-street"
       },
       {
        "label": "Antique Market and Retail Roofing in Adamstown",
-       "href": "/locations/adamstown"
+       "href": "/service-areas/adamstown"
       },
       {
        "label": "Roofing for Akron, Pennsylvania's Small Commercial Core",
-       "href": "/locations/akron"
+       "href": "/service-areas/akron"
       },
       {
        "label": "Roofing for Bird-in-Hand's Smorgasbords, Markets, and Inns",
-       "href": "/locations/bird-in-hand"
+       "href": "/service-areas/bird-in-hand"
       },
       {
        "label": "Roofing Work for Brownstown's Route 272 Commercial Strip",
-       "href": "/locations/brownstown"
+       "href": "/service-areas/brownstown"
       },
       {
        "label": "Recover and Overlay Options for Multi-Year Capital Plans",
@@ -617,23 +617,23 @@
      "related": [
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Roofing Along Paradise's Route 30 Tourism Strip",
-       "href": "/locations/paradise"
+       "href": "/service-areas/paradise"
       },
       {
        "label": "Roofing for Quarryville's Ag Commerce and Retirement Campus Buildings",
-       "href": "/locations/quarryville"
+       "href": "/service-areas/quarryville"
       },
       {
        "label": "Getting Water Off an Open Roof Before It Reaches the Building Interior",
@@ -683,23 +683,23 @@
      "related": [
       {
        "label": "Roofing Senior Living Campuses and Retail Along Route 272 in Willow Street",
-       "href": "/locations/willow-street"
+       "href": "/service-areas/willow-street"
       },
       {
        "label": "Antique Market and Retail Roofing in Adamstown",
-       "href": "/locations/adamstown"
+       "href": "/service-areas/adamstown"
       },
       {
        "label": "Roofing for Akron, Pennsylvania's Small Commercial Core",
-       "href": "/locations/akron"
+       "href": "/service-areas/akron"
       },
       {
        "label": "Roofing for Bird-in-Hand's Smorgasbords, Markets, and Inns",
-       "href": "/locations/bird-in-hand"
+       "href": "/service-areas/bird-in-hand"
       },
       {
        "label": "Roofing Work for Brownstown's Route 272 Commercial Strip",
-       "href": "/locations/brownstown"
+       "href": "/service-areas/brownstown"
       },
       {
        "label": "Built-Up Roofing on Institutional Campuses That Can't Go Off-Line",
@@ -749,23 +749,23 @@
      "related": [
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Roofing Along Paradise's Route 30 Tourism Strip",
-       "href": "/locations/paradise"
+       "href": "/service-areas/paradise"
       },
       {
        "label": "Built-Up Roofing on Institutional Campuses That Can't Go Off-Line",
@@ -815,23 +815,23 @@
      "related": [
       {
        "label": "Roofing Along Paradise's Route 30 Tourism Strip",
-       "href": "/locations/paradise"
+       "href": "/service-areas/paradise"
       },
       {
        "label": "Roofing for Quarryville's Ag Commerce and Retirement Campus Buildings",
-       "href": "/locations/quarryville"
+       "href": "/service-areas/quarryville"
       },
       {
        "label": "Roofing for Reamstown's Route 272 and Turnpike-Adjacent Buildings",
-       "href": "/locations/reamstown"
+       "href": "/service-areas/reamstown"
       },
       {
        "label": "Roofing for Ronks' Theater and Attraction Buildings",
-       "href": "/locations/ronks"
+       "href": "/service-areas/ronks"
       },
       {
        "label": "Roofing for Strasburg, Pennsylvania's Rail-Tourism District",
-       "href": "/locations/strasburg"
+       "href": "/service-areas/strasburg"
       },
       {
        "label": "Tear-Off and Deck-Up Replacement When a Recover Roof Is No Longer the Answer",
@@ -877,23 +877,23 @@
      "related": [
       {
        "label": "Roofing Contractors for Manheim Township's Office Parks and Retail Buildings",
-       "href": "/locations/manheim-township"
+       "href": "/service-areas/manheim-township"
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "EPDM on Lancaster County's Older Manufacturing Stock",
@@ -943,23 +943,23 @@
      "related": [
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Roofing Along Paradise's Route 30 Tourism Strip",
-       "href": "/locations/paradise"
+       "href": "/service-areas/paradise"
       },
       {
        "label": "Roofing for Quarryville's Ag Commerce and Retirement Campus Buildings",
-       "href": "/locations/quarryville"
+       "href": "/service-areas/quarryville"
       },
       {
        "label": "Roofing for Reamstown's Route 272 and Turnpike-Adjacent Buildings",
-       "href": "/locations/reamstown"
+       "href": "/service-areas/reamstown"
       },
       {
        "label": "R-Panel Metal for the Turnpike-Exit Warehouse and Auto Auction Corridor",
@@ -1009,23 +1009,23 @@
      "related": [
       {
        "label": "Roofing for Akron, Pennsylvania's Small Commercial Core",
-       "href": "/locations/akron"
+       "href": "/service-areas/akron"
       },
       {
        "label": "Roofing for Bird-in-Hand's Smorgasbords, Markets, and Inns",
-       "href": "/locations/bird-in-hand"
+       "href": "/service-areas/bird-in-hand"
       },
       {
        "label": "Roofing Work for Brownstown's Route 272 Commercial Strip",
-       "href": "/locations/brownstown"
+       "href": "/service-areas/brownstown"
       },
       {
        "label": "Roofing for Christiana's Rail-Side Warehouses and Suppliers",
-       "href": "/locations/christiana"
+       "href": "/service-areas/christiana"
       },
       {
        "label": "Roof Replacement and Repair for Columbia's Riverfront Commercial Buildings",
-       "href": "/locations/columbia"
+       "href": "/service-areas/columbia"
       },
       {
        "label": "Getting Water Off an Open Roof Before It Reaches the Building Interior",
@@ -1075,23 +1075,23 @@
      "related": [
       {
        "label": "Roofing for the Route 23 Industrial and Ag-Business Strip in Leola",
-       "href": "/locations/leola"
+       "href": "/service-areas/leola"
       },
       {
        "label": "Commercial Roof Systems for Lititz's Production Campuses and Legacy Buildings",
-       "href": "/locations/lititz"
+       "href": "/service-areas/lititz"
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Repairing What Wind, Hail, and Heavy Snow Actually Do to a Flat Roof",
@@ -1141,23 +1141,23 @@
      "related": [
       {
        "label": "Roof Replacement and Repair for Columbia's Riverfront Commercial Buildings",
-       "href": "/locations/columbia"
+       "href": "/service-areas/columbia"
       },
       {
        "label": "Distribution and Cold-Storage Roofing at the Denver Interchange",
-       "href": "/locations/denver"
+       "href": "/service-areas/denver"
       },
       {
        "label": "Roofing for Downtown Lancaster's Office, Market, and Hotel Buildings",
-       "href": "/locations/downtown-lancaster"
+       "href": "/service-areas/downtown-lancaster"
       },
       {
        "label": "Roofing for East Lampeter's Route 30 Hotel and Retail Corridor",
-       "href": "/locations/east-lampeter-township"
+       "href": "/service-areas/east-lampeter-township"
       },
       {
        "label": "Small-Footprint Commercial Roofing in East Petersburg",
-       "href": "/locations/east-petersburg"
+       "href": "/service-areas/east-petersburg"
       },
       {
        "label": "PVC for Roofs That Live Above Grease, Steam, and Kitchen Exhaust",
@@ -1207,23 +1207,23 @@
      "related": [
       {
        "label": "Roofing Contractors for Manheim Township's Office Parks and Retail Buildings",
-       "href": "/locations/manheim-township"
+       "href": "/service-areas/manheim-township"
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "R-Panel Metal for the Turnpike-Exit Warehouse and Auto Auction Corridor",
@@ -1273,23 +1273,23 @@
      "related": [
       {
        "label": "Roofing Contractors Serving Ephrata's Manufacturing and Medical Buildings",
-       "href": "/locations/ephrata"
+       "href": "/service-areas/ephrata"
       },
       {
        "label": "Roofing at the Gap Crossroads on Route 30 and 41",
-       "href": "/locations/gap"
+       "href": "/service-areas/gap"
       },
       {
        "label": "Roofing for Intercourse's Shop Clusters and Kitchen Kettle Village",
-       "href": "/locations/intercourse"
+       "href": "/service-areas/intercourse"
       },
       {
        "label": "Public and Private Roof Contracts Serving Landisville",
-       "href": "/locations/landisville"
+       "href": "/service-areas/landisville"
       },
       {
        "label": "Roofing for the Route 23 Industrial and Ag-Business Strip in Leola",
-       "href": "/locations/leola"
+       "href": "/service-areas/leola"
       },
       {
        "label": "Getting Water Off an Open Roof Before It Reaches the Building Interior",
@@ -1339,23 +1339,23 @@
      "related": [
       {
        "label": "Roofing for Downtown Lancaster's Office, Market, and Hotel Buildings",
-       "href": "/locations/downtown-lancaster"
+       "href": "/service-areas/downtown-lancaster"
       },
       {
        "label": "Roofing for East Lampeter's Route 30 Hotel and Retail Corridor",
-       "href": "/locations/east-lampeter-township"
+       "href": "/service-areas/east-lampeter-township"
       },
       {
        "label": "Small-Footprint Commercial Roofing in East Petersburg",
-       "href": "/locations/east-petersburg"
+       "href": "/service-areas/east-petersburg"
       },
       {
        "label": "Roofing Contractors Serving Ephrata's Manufacturing and Medical Buildings",
-       "href": "/locations/ephrata"
+       "href": "/service-areas/ephrata"
       },
       {
        "label": "Roofing at the Gap Crossroads on Route 30 and 41",
-       "href": "/locations/gap"
+       "href": "/service-areas/gap"
       },
       {
        "label": "PVC for Roofs That Live Above Grease, Steam, and Kitchen Exhaust",
@@ -1405,23 +1405,23 @@
      "related": [
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Roofing Along Paradise's Route 30 Tourism Strip",
-       "href": "/locations/paradise"
+       "href": "/service-areas/paradise"
       },
       {
        "label": "Roofing for Quarryville's Ag Commerce and Retirement Campus Buildings",
-       "href": "/locations/quarryville"
+       "href": "/service-areas/quarryville"
       },
       {
        "label": "Roofing for Reamstown's Route 272 and Turnpike-Adjacent Buildings",
-       "href": "/locations/reamstown"
+       "href": "/service-areas/reamstown"
       },
       {
        "label": "Roofing for Ronks' Theater and Attraction Buildings",
-       "href": "/locations/ronks"
+       "href": "/service-areas/ronks"
       },
       {
        "label": "Sheet Metal Detail Work at the Point Where Most Roofs Actually Fail First",
@@ -1471,23 +1471,23 @@
      "related": [
       {
        "label": "Roofing for Reamstown's Route 272 and Turnpike-Adjacent Buildings",
-       "href": "/locations/reamstown"
+       "href": "/service-areas/reamstown"
       },
       {
        "label": "Roofing for Ronks' Theater and Attraction Buildings",
-       "href": "/locations/ronks"
+       "href": "/service-areas/ronks"
       },
       {
        "label": "Roofing for Strasburg, Pennsylvania's Rail-Tourism District",
-       "href": "/locations/strasburg"
+       "href": "/service-areas/strasburg"
       },
       {
        "label": "Roofing Concrete Plant and Small Borough Buildings in Terre Hill",
-       "href": "/locations/terre-hill"
+       "href": "/service-areas/terre-hill"
       },
       {
        "label": "Roofing Senior Living Campuses and Retail Along Route 272 in Willow Street",
-       "href": "/locations/willow-street"
+       "href": "/service-areas/willow-street"
       },
       {
        "label": "PVC for Roofs That Live Above Grease, Steam, and Kitchen Exhaust",
@@ -1537,23 +1537,23 @@
      "related": [
       {
        "label": "Roofing Contractors for Manheim Township's Office Parks and Retail Buildings",
-       "href": "/locations/manheim-township"
+       "href": "/service-areas/manheim-township"
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "EPDM on Lancaster County's Older Manufacturing Stock",
@@ -1603,23 +1603,23 @@
      "related": [
       {
        "label": "Roofing for Reamstown's Route 272 and Turnpike-Adjacent Buildings",
-       "href": "/locations/reamstown"
+       "href": "/service-areas/reamstown"
       },
       {
        "label": "Roofing for Ronks' Theater and Attraction Buildings",
-       "href": "/locations/ronks"
+       "href": "/service-areas/ronks"
       },
       {
        "label": "Roofing for Strasburg, Pennsylvania's Rail-Tourism District",
-       "href": "/locations/strasburg"
+       "href": "/service-areas/strasburg"
       },
       {
        "label": "Roofing Concrete Plant and Small Borough Buildings in Terre Hill",
-       "href": "/locations/terre-hill"
+       "href": "/service-areas/terre-hill"
       },
       {
        "label": "Roofing Senior Living Campuses and Retail Along Route 272 in Willow Street",
-       "href": "/locations/willow-street"
+       "href": "/service-areas/willow-street"
       },
       {
        "label": "Moving Water Off a Flat Roof Before It Turns Into a Structural Load",
@@ -1669,23 +1669,23 @@
      "related": [
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Sheet Metal Detail Work at the Point Where Most Roofs Actually Fail First",
@@ -1735,23 +1735,23 @@
      "related": [
       {
        "label": "Roofing Contractors for Manheim Township's Office Parks and Retail Buildings",
-       "href": "/locations/manheim-township"
+       "href": "/service-areas/manheim-township"
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "PVC for Roofs That Live Above Grease, Steam, and Kitchen Exhaust",
@@ -1801,23 +1801,23 @@
      "related": [
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Roofing Along Paradise's Route 30 Tourism Strip",
-       "href": "/locations/paradise"
+       "href": "/service-areas/paradise"
       },
       {
        "label": "Moving Water Off a Flat Roof Before It Turns Into a Structural Load",
@@ -1867,23 +1867,23 @@
      "related": [
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "Reroofing Plants, Warehouses, and Institutional Buildings Across Lancaster County",
@@ -1933,23 +1933,23 @@
      "related": [
       {
        "label": "Roofing Contractors for Manheim Township's Office Parks and Retail Buildings",
-       "href": "/locations/manheim-township"
+       "href": "/service-areas/manheim-township"
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing Contractors for Mount Joy's Industrial Parks and Food Plants",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "Standing Seam Metal for Lititz's Production Campuses and Ag Buildings",
@@ -2025,7 +2025,7 @@
       },
       {
        "label": "Riverfront Storefront and Industrial Roofing in Marietta",
-       "href": "/locations/marietta"
+       "href": "/service-areas/marietta"
       },
       {
        "label": "Roofing for Distribution and Logistics Centers",
@@ -2079,7 +2079,7 @@
       },
       {
        "label": "Roofing at the Gap Crossroads on Route 30 and 41",
-       "href": "/locations/gap"
+       "href": "/service-areas/gap"
       },
       {
        "label": "Roofing for K-12 Public Schools and District Facilities",
@@ -2141,7 +2141,7 @@
       },
       {
        "label": "Roofing for Downtown Lancaster's Office, Market, and Hotel Buildings",
-       "href": "/locations/downtown-lancaster"
+       "href": "/service-areas/downtown-lancaster"
       },
       {
        "label": "Roofing for Medical Office Buildings and Outpatient Clinics",
@@ -2199,7 +2199,7 @@
       },
       {
        "label": "Roofing Contractors Serving Ephrata's Manufacturing and Medical Buildings",
-       "href": "/locations/ephrata"
+       "href": "/service-areas/ephrata"
       },
       {
        "label": "Roofing for Food and Beverage Processing Plants",
@@ -2265,7 +2265,7 @@
       },
       {
        "label": "Roofing at the Gap Crossroads on Route 30 and 41",
-       "href": "/locations/gap"
+       "href": "/service-areas/gap"
       },
       {
        "label": "Roofing for Continuing Care and Senior Living Campuses",
@@ -2335,7 +2335,7 @@
       },
       {
        "label": "Roofing for East Lampeter Township's Retail and Hospitality Corridor",
-       "href": "/locations/east-lampeter-township"
+       "href": "/service-areas/east-lampeter-township"
       },
       {
        "label": "Commercial Roof Repair",
@@ -2393,11 +2393,11 @@
       },
       {
        "label": "Roofing for New Holland's Agricultural and Light-Industrial Buildings",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Roofing for Leola's Commercial and Agricultural Buildings",
-       "href": "/locations/leola"
+       "href": "/service-areas/leola"
       },
       {
        "label": "Commercial Roof Repair",
@@ -2455,11 +2455,11 @@
       },
       {
        "label": "Roofing for Mount Joy's Industrial and Rail-Adjacent Buildings",
-       "href": "/locations/mount-joy"
+       "href": "/service-areas/mount-joy"
       },
       {
        "label": "Roofing for Quarryville's Open-Exposure Agricultural and Commercial Buildings",
-       "href": "/locations/quarryville"
+       "href": "/service-areas/quarryville"
       },
       {
        "label": "Commercial Roof Repair",
@@ -2517,11 +2517,11 @@
       },
       {
        "label": "Roofing for Lititz's Production Campuses and Ag Buildings",
-       "href": "/locations/lititz"
+       "href": "/service-areas/lititz"
       },
       {
        "label": "Roofing for Ephrata's Manufacturing and Ag-Processing Buildings",
-       "href": "/locations/ephrata"
+       "href": "/service-areas/ephrata"
       },
       {
        "label": "Commercial Roof Repair",
@@ -2579,7 +2579,7 @@
       },
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "Roofing for Continuing Care and Senior Living Campuses",
@@ -2641,7 +2641,7 @@
       },
       {
        "label": "Roofing for Bird-in-Hand's Smorgasbords, Markets, and Inns",
-       "href": "/locations/bird-in-hand"
+       "href": "/service-areas/bird-in-hand"
       },
       {
        "label": "Roofing for Hospitals and Outpatient Surgery Centers",
@@ -2699,7 +2699,7 @@
       },
       {
        "label": "Antique Market and Retail Roofing in Adamstown",
-       "href": "/locations/adamstown"
+       "href": "/service-areas/adamstown"
       },
       {
        "label": "Roofing for Distribution and Logistics Centers",
@@ -2757,7 +2757,7 @@
       },
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "Roofing for Medical Office Buildings and Outpatient Clinics",
@@ -2823,7 +2823,7 @@
       },
       {
        "label": "Roofing for East Lampeter's Route 30 Hotel and Retail Corridor",
-       "href": "/locations/east-lampeter-township"
+       "href": "/service-areas/east-lampeter-township"
       },
       {
        "label": "Roofing for Food and Beverage Processing Plants",
@@ -2877,7 +2877,7 @@
       },
       {
        "label": "Roofing for Strasburg, Pennsylvania's Rail-Tourism District",
-       "href": "/locations/strasburg"
+       "href": "/service-areas/strasburg"
       },
       {
        "label": "Roofing for Continuing Care and Senior Living Campuses",
@@ -2927,7 +2927,7 @@
       },
       {
        "label": "Distribution and Cold-Storage Roofing at the Denver Interchange",
-       "href": "/locations/denver"
+       "href": "/service-areas/denver"
       },
       {
        "label": "Roofing for Medical Office Buildings and Outpatient Clinics",
@@ -2989,7 +2989,7 @@
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Roofing for Continuing Care and Senior Living Campuses",
@@ -3051,7 +3051,7 @@
       },
       {
        "label": "Roofing for Intercourse's Shop Clusters and Kitchen Kettle Village",
-       "href": "/locations/intercourse"
+       "href": "/service-areas/intercourse"
       },
       {
        "label": "Roofing for Continuing Care and Senior Living Campuses",
@@ -3109,7 +3109,7 @@
       },
       {
        "label": "Roofing at the Gap Crossroads on Route 30 and 41",
-       "href": "/locations/gap"
+       "href": "/service-areas/gap"
       },
       {
        "label": "Roofing for Event Venues and Production Facilities",
@@ -3163,7 +3163,7 @@
       },
       {
        "label": "Public and Private Roof Contracts Serving Landisville",
-       "href": "/locations/landisville"
+       "href": "/service-areas/landisville"
       },
       {
        "label": "Roofing for Manufacturing Plants in Lancaster County",
@@ -3221,7 +3221,7 @@
       },
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Roofing for Manufacturing Plants in Lancaster County",
@@ -3283,7 +3283,7 @@
       },
       {
        "label": "Roofing for Bird-in-Hand's Smorgasbords, Markets, and Inns",
-       "href": "/locations/bird-in-hand"
+       "href": "/service-areas/bird-in-hand"
       },
       {
        "label": "Roofing for Food and Beverage Processing Plants",
@@ -3345,7 +3345,7 @@
       },
       {
        "label": "Roofing Along Paradise's Route 30 Tourism Strip",
-       "href": "/locations/paradise"
+       "href": "/service-areas/paradise"
       },
       {
        "label": "Roofing for Medical Office Buildings and Outpatient Clinics",
@@ -3411,7 +3411,7 @@
       },
       {
        "label": "Roofing for Christiana's Rail-Side Warehouses and Suppliers",
-       "href": "/locations/christiana"
+       "href": "/service-areas/christiana"
       },
       {
        "label": "Roofing for Distribution and Logistics Centers",
@@ -3483,7 +3483,7 @@
       },
       {
        "label": "Roofing Contractors Serving Ephrata's Manufacturing and Medical Buildings",
-       "href": "/locations/ephrata"
+       "href": "/service-areas/ephrata"
       },
       {
        "label": "Roofing for Event Venues and Production Facilities",
@@ -3549,7 +3549,7 @@
       },
       {
        "label": "Commercial Roof Systems for Lititz's Production Campuses and Legacy Buildings",
-       "href": "/locations/lititz"
+       "href": "/service-areas/lititz"
       },
       {
        "label": "Roofing for Multi-Tenant Retail Strip Centers",
@@ -3584,7 +3584,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<h1>Multi-Location Retail and Outlet Center Roofing in Lancaster County</h1>\n<p>Retail development in Lancaster County concentrates along a few corridors: the Route 30 outlet and hotel strip through East Lampeter Township, the Route 272 commercial stretch running through Willow Street and up toward Brownstown and Reamstown, and the retail growth around Manheim Township's Belmont-area office and shopping parks. Commercial Roofing Contractors of Lancaster works with chain retailers and multi-location operators to keep roofs across these sites on a consistent maintenance and replacement standard rather than treating each store as an isolated project.</p>\n\n<h2>Strip Retail and Outlet Center Roofing Along Route 30</h2>\n<p>The outlet and hotel corridor through East Lampeter Township carries large-footprint retail buildings with big low-slope membrane fields, drainage systems designed for wide roof areas, and rooftop mechanical equipment serving multiple tenant suites. We work with the property or brand facilities team to schedule roof work around store hours and, where the building has multiple tenants, around each tenant's individual lease terms and notice requirements.</p>\n<p>Hotel properties along the same Route 30 corridor carry similar large-footprint low-slope roofs with high guest-occupancy sensitivity, and we apply the same store-hours scheduling logic to a hotel's overnight quiet hours and daytime housekeeping schedule.</p>\n\n<h2>Grocery-Anchor Roof Systems</h2>\n<p>Grocery-anchored centers carry heavier rooftop mechanical loads than typical strip retail, with refrigeration condensing units, exhaust from in-store food service, and larger HVAC packages all penetrating the roof deck. We account for that equipment density in the roof spec and in access planning, since a grocery roof with dozens of curbs and units needs a different maintenance walk than a simple retail box.</p>\n<p>Refrigeration equipment failures tied to roof penetration leaks are also a priority call for grocery locations specifically, since a compromised curb seal near a condensing unit can affect in-store refrigeration well before it shows up as a visible ceiling leak.</p>\n\n<h2>Multi-Location Roof Standards for Chain Operators</h2>\n<p>Chain retailers with several Lancaster County locations, or locations spread across our broader service area, often want the same roof system, same warranty terms, and same maintenance cadence applied consistently across every store rather than a different vendor decision at each site. We work from a standard specification a facilities team sets once and apply it store by store, adjusting only for genuine site conditions like roof age or drainage layout, not brand or system preference from location to location.</p>\n<p>We also maintain consistent documentation across locations, using the same photo and reporting format at every store so a facilities director comparing a Route 30 outlet location against a Route 272 strip center location is working from directly comparable data.</p>\n<ul>\n<li>Big-box and outlet center low-slope roof replacement</li>\n<li>Grocery-anchored center roofing with refrigeration and exhaust equipment</li>\n<li>Multi-tenant strip retail roof maintenance and repair</li>\n<li>Standardized roof specification rollout across multiple store locations</li>\n<li>Preventive maintenance programs scheduled around retail calendars</li>\n<li>Emergency leak response for active sales floor space</li>\n</ul>\n\n<h2>Scheduling Around Retail Hours and Peak Seasons</h2>\n<p>Retail operators generally don't want roof work happening during business hours or in the weeks leading into a peak sales season. We schedule noisier work outside store hours where the lease or brand standard requires it, and we plan larger projects to complete ahead of the fall and holiday retail season rather than running into it, since that's the period stores are least willing to tolerate any disruption or risk of a weather-related delay mid-project.</p>\n<p>Back-to-school and early holiday shopping periods carry similar scheduling sensitivity in this corridor, given the concentration of outlet and specialty retail, and we build project timelines around those specific windows rather than a generic retail calendar.</p>\n\n<h2>Roof Asset Tracking Across Multiple Store Locations</h2>\n<p>For operators managing roofs at several locations, we track condition, age, and warranty status per store in a format that rolls up into a single portfolio view. That makes it possible to plan replacement spending across locations by actual need and risk rather than reacting to whichever store happens to <a href=\"/services/commercial-roof-leak-repair\">leak</a> first.</p>\n<p>That portfolio view also flags when several locations are approaching the same roof age at once, which lets a facilities team plan replacement spending across a few budget cycles instead of facing multiple simultaneous projects with no advance notice.</p>\n\n<h2>Questions from Facilities Teams Managing Multiple Locations</h2>\n<h3>Can you apply the same roof specification across all of our locations?</h3>\n<p>Yes. We work from a standard specification set by your facilities team and apply it consistently store by store, adjusting only for genuine differences in existing roof age or drainage conditions.</p>\n<h3>Will roof work disrupt store hours or customer access?</h3>\n<p>We schedule noisier or more disruptive work outside business hours where required and plan access and staging to keep customer entrances clear during store hours.</p>\n<h3>How do you handle the extra rooftop equipment on a grocery-anchored building?</h3>\n<p>We account for refrigeration condensing units, food service exhaust, and larger HVAC packages in both the roof spec and the maintenance walk, since a grocery roof carries more equipment density than a typical retail box.</p>\n<h3>Can you avoid scheduling major roof work heading into the holiday season?</h3>\n<p>Yes, we plan larger projects to complete ahead of the fall and holiday retail period specifically, since that's when stores are least tolerant of disruption or a weather-related schedule slip.</p>\n<h3>Do you track roof condition and warranty status across multiple stores for us?</h3>\n<p>Yes, we maintain per-location condition, age, and warranty data that rolls up into a portfolio-level view, which supports planning replacement spending by actual need across your locations.</p>"
+       "html": "<h1>Multi-Location Retail and Outlet Center Roofing in Lancaster County</h1>\n<p>Retail development in Lancaster County concentrates along a few corridors: the Route 30 outlet and hotel strip through East Lampeter Township, the Route 272 commercial stretch running through Willow Street and up toward Brownstown and Reamstown, and the retail growth around Manheim Township's Belmont-area office and shopping parks. Commercial Roofing Contractors of Lancaster works with chain retailers and multi-location operators to keep roofs across these sites on a consistent maintenance and replacement standard rather than treating each store as an isolated project.</p>\n\n<h2>Strip Retail and Outlet Center Roofing Along Route 30</h2>\n<p>The outlet and hotel corridor through East Lampeter Township carries large-footprint retail buildings with big low-slope membrane fields, drainage systems designed for wide roof areas, and rooftop mechanical equipment serving multiple tenant suites. We work with the property or brand facilities team to schedule roof work around store hours and, where the building has multiple tenants, around each tenant's individual lease terms and notice requirements.</p>\n<p>Hotel properties along the same Route 30 corridor carry similar large-footprint low-slope roofs with high guest-occupancy sensitivity, and we apply the same store-hours scheduling logic to a hotel's overnight quiet hours and daytime housekeeping schedule.</p>\n\n<h2>Grocery-Anchor Roof Systems</h2>\n<p>Grocery-anchored centers carry heavier rooftop mechanical loads than typical strip retail, with refrigeration condensing units, exhaust from in-store food service, and larger HVAC packages all penetrating the roof deck. We account for that equipment density in the roof spec and in access planning, since a grocery roof with dozens of curbs and units needs a different maintenance walk than a simple retail box.</p>\n<p>Refrigeration equipment failures tied to roof penetration leaks are also a priority call for grocery locations specifically, since a compromised curb seal near a condensing unit can affect in-store refrigeration well before it shows up as a visible ceiling leak.</p>\n\n<h2>Multi-Location Roof Standards for Chain Operators</h2>\n<p>Chain retailers with several Lancaster County locations, or locations spread across our broader service area, often want the same roof system, same warranty terms, and same maintenance cadence applied consistently across every store rather than a different vendor decision at each site. We work from a standard specification a facilities team sets once and apply it store by store, adjusting only for genuine site conditions like roof age or drainage layout, not brand or system preference from location to location.</p>\n<p>We also maintain consistent documentation across locations, using the same photo and reporting format at every store so a facilities director comparing a Route 30 outlet location against a Route 272 strip center location is working from directly comparable data.</p>\n<ul>\n<li>Big-box and outlet center low-slope roof replacement</li>\n<li>Grocery-anchored center roofing with refrigeration and exhaust equipment</li>\n<li>Multi-tenant strip retail roof maintenance and repair</li>\n<li>Standardized roof specification rollout across multiple store locations</li>\n<li>Preventive maintenance programs scheduled around retail calendars</li>\n<li>Emergency leak response for active sales floor space</li>\n</ul>\n\n<h2>Scheduling Around Retail Hours and Peak Seasons</h2>\n<p>Retail operators generally don't want roof work happening during business hours or in the weeks leading into a peak sales season. We schedule noisier work outside store hours where the lease or brand standard requires it, and we plan larger projects to complete ahead of the fall and holiday retail season rather than running into it, since that's the period stores are least willing to tolerate any disruption or risk of a weather-related delay mid-project.</p>\n<p>Back-to-school and early holiday shopping periods carry similar scheduling sensitivity in this corridor, given the concentration of outlet and specialty retail, and we build project timelines around those specific windows rather than a generic retail calendar.</p>\n\n<h2>Roof Asset Tracking Across Multiple Store Service Areas</h2>\n<p>For operators managing roofs at several locations, we track condition, age, and warranty status per store in a format that rolls up into a single portfolio view. That makes it possible to plan replacement spending across locations by actual need and risk rather than reacting to whichever store happens to <a href=\"/services/commercial-roof-leak-repair\">leak</a> first.</p>\n<p>That portfolio view also flags when several locations are approaching the same roof age at once, which lets a facilities team plan replacement spending across a few budget cycles instead of facing multiple simultaneous projects with no advance notice.</p>\n\n<h2>Questions from Facilities Teams Managing Multiple Service Areas</h2>\n<h3>Can you apply the same roof specification across all of our locations?</h3>\n<p>Yes. We work from a standard specification set by your facilities team and apply it consistently store by store, adjusting only for genuine differences in existing roof age or drainage conditions.</p>\n<h3>Will roof work disrupt store hours or customer access?</h3>\n<p>We schedule noisier or more disruptive work outside business hours where required and plan access and staging to keep customer entrances clear during store hours.</p>\n<h3>How do you handle the extra rooftop equipment on a grocery-anchored building?</h3>\n<p>We account for refrigeration condensing units, food service exhaust, and larger HVAC packages in both the roof spec and the maintenance walk, since a grocery roof carries more equipment density than a typical retail box.</p>\n<h3>Can you avoid scheduling major roof work heading into the holiday season?</h3>\n<p>Yes, we plan larger projects to complete ahead of the fall and holiday retail period specifically, since that's when stores are least tolerant of disruption or a weather-related schedule slip.</p>\n<h3>Do you track roof condition and warranty status across multiple stores for us?</h3>\n<p>Yes, we maintain per-location condition, age, and warranty data that rolls up into a portfolio-level view, which supports planning replacement spending by actual need across your locations.</p>"
       }
      ],
      "faqs": [],
@@ -3615,7 +3615,7 @@
       },
       {
        "label": "Small-Footprint Commercial Roofing in East Petersburg",
-       "href": "/locations/east-petersburg"
+       "href": "/service-areas/east-petersburg"
       },
       {
        "label": "Roofing for Grocery Stores and Supermarkets",
@@ -3681,7 +3681,7 @@
       },
       {
        "label": "Roofing for Ronks' Theater and Attraction Buildings",
-       "href": "/locations/ronks"
+       "href": "/service-areas/ronks"
       },
       {
        "label": "Roofing for Manufacturing Plants in Lancaster County",
@@ -3747,7 +3747,7 @@
       },
       {
        "label": "Distribution and Cold-Storage Roofing at the Denver Interchange",
-       "href": "/locations/denver"
+       "href": "/service-areas/denver"
       },
       {
        "label": "Roofing for Manufacturing Plants in Lancaster County",
@@ -3813,7 +3813,7 @@
       },
       {
        "label": "Antique Market and Retail Roofing in Adamstown",
-       "href": "/locations/adamstown"
+       "href": "/service-areas/adamstown"
       },
       {
        "label": "Roofing for Distribution and Logistics Centers",
@@ -3875,7 +3875,7 @@
       },
       {
        "label": "Roofing for Quarryville's Ag Commerce and Retirement Campus Buildings",
-       "href": "/locations/quarryville"
+       "href": "/service-areas/quarryville"
       },
       {
        "label": "Roofing for Hotels and Hospitality Properties",
@@ -3941,7 +3941,7 @@
       },
       {
        "label": "Roofing Along Paradise's Route 30 Tourism Strip",
-       "href": "/locations/paradise"
+       "href": "/service-areas/paradise"
       },
       {
        "label": "Roofing for Food and Beverage Processing Plants",
@@ -4009,7 +4009,7 @@
       },
       {
        "label": "Warehouse Roofing at the Mountville Route 30 Interchange",
-       "href": "/locations/mountville"
+       "href": "/service-areas/mountville"
       },
       {
        "label": "Roofing for Food and Beverage Processing Plants",
@@ -4071,7 +4071,7 @@
       },
       {
        "label": "Public and Private Roof Contracts Serving Landisville",
-       "href": "/locations/landisville"
+       "href": "/service-areas/landisville"
       },
       {
        "label": "Roofing for Distribution and Logistics Centers",
@@ -4137,7 +4137,7 @@
       },
       {
        "label": "Roofing for Intercourse's Shop Clusters and Kitchen Kettle Village",
-       "href": "/locations/intercourse"
+       "href": "/service-areas/intercourse"
       },
       {
        "label": "Roofing for Event Venues and Production Facilities",
@@ -4199,7 +4199,7 @@
       },
       {
        "label": "Public and Private Roof Contracts Serving Landisville",
-       "href": "/locations/landisville"
+       "href": "/service-areas/landisville"
       },
       {
        "label": "Roofing for Medical Office Buildings and Outpatient Clinics",
@@ -4265,7 +4265,7 @@
       },
       {
        "label": "Roofing for Akron, Pennsylvania's Small Commercial Core",
-       "href": "/locations/akron"
+       "href": "/service-areas/akron"
       },
       {
        "label": "Roofing for Warehouses and Bulk Storage Buildings",
@@ -4327,7 +4327,7 @@
       },
       {
        "label": "Roofing Along Paradise's Route 30 Tourism Strip",
-       "href": "/locations/paradise"
+       "href": "/service-areas/paradise"
       },
       {
        "label": "Roofing for Medical Office Buildings and Outpatient Clinics",
@@ -4389,7 +4389,7 @@
       },
       {
        "label": "Roofing for Quarryville's Ag Commerce and Retirement Campus Buildings",
-       "href": "/locations/quarryville"
+       "href": "/service-areas/quarryville"
       },
       {
        "label": "Roofing for Hotels and Hospitality Properties",
@@ -4455,7 +4455,7 @@
       },
       {
        "label": "Roofing for Quarryville's Ag Commerce and Retirement Campus Buildings",
-       "href": "/locations/quarryville"
+       "href": "/service-areas/quarryville"
       },
       {
        "label": "Roofing for Continuing Care and Senior Living Campuses",
@@ -4527,7 +4527,7 @@
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Roofing for Manufacturing, Food Processing, and Ag Equipment Plants in Lancaster County",
@@ -4573,7 +4573,7 @@
       },
       {
        "label": "Roofing for Intercourse's Shop Clusters and Kitchen Kettle Village",
-       "href": "/locations/intercourse"
+       "href": "/service-areas/intercourse"
       },
       {
        "label": "Roofing for Manufacturing, Food Processing, and Ag Equipment Plants in Lancaster County",
@@ -4619,7 +4619,7 @@
       },
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "K-12 and Higher Education Roofing for Lancaster County School Districts and Campuses",
@@ -4665,7 +4665,7 @@
       },
       {
        "label": "Roofing Work for Brownstown's Route 272 Commercial Strip",
-       "href": "/locations/brownstown"
+       "href": "/service-areas/brownstown"
       },
       {
        "label": "Multi-Location Retail and Outlet Center Roofing in Lancaster County",
@@ -4711,7 +4711,7 @@
       },
       {
        "label": "Roofing Contractors Serving Ephrata's Manufacturing and Medical Buildings",
-       "href": "/locations/ephrata"
+       "href": "/service-areas/ephrata"
       },
       {
        "label": "Multi-Location Retail and Outlet Center Roofing in Lancaster County",
@@ -4757,7 +4757,7 @@
       },
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Multi-Location Retail and Outlet Center Roofing in Lancaster County",
@@ -4803,7 +4803,7 @@
       },
       {
        "label": "Roof Contractors Built to Work Around Manheim's Auction Calendar",
-       "href": "/locations/manheim"
+       "href": "/service-areas/manheim"
       },
       {
        "label": "Roofing for Manufacturing, Food Processing, and Ag Equipment Plants in Lancaster County",
@@ -4849,7 +4849,7 @@
       },
       {
        "label": "Roofing for Reamstown's Route 272 and Turnpike-Adjacent Buildings",
-       "href": "/locations/reamstown"
+       "href": "/service-areas/reamstown"
       },
       {
        "label": "Division 07 Roofing Subcontractor for Lancaster County General Contractors",
@@ -4895,7 +4895,7 @@
       },
       {
        "label": "Roofing Contractors for Manheim Township's Office Parks and Retail Buildings",
-       "href": "/locations/manheim-township"
+       "href": "/service-areas/manheim-township"
       },
       {
        "label": "Roof Programs for Lancaster County Office, Retail, and Multifamily Portfolios",
@@ -4941,7 +4941,7 @@
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Roofing for Manufacturing, Food Processing, and Ag Equipment Plants in Lancaster County",
@@ -4987,7 +4987,7 @@
       },
       {
        "label": "Roofing Contracts for Millersville's Campus Buildings and Rental Blocks",
-       "href": "/locations/millersville"
+       "href": "/service-areas/millersville"
       },
       {
        "label": "Municipal and Public Building Roofing Across Lancaster County",
@@ -5033,7 +5033,7 @@
       },
       {
        "label": "Roofing for Strasburg, Pennsylvania's Rail-Tourism District",
-       "href": "/locations/strasburg"
+       "href": "/service-areas/strasburg"
       },
       {
        "label": "Municipal and Public Building Roofing Across Lancaster County",
@@ -5085,7 +5085,7 @@
       },
       {
        "label": "Roofing for Ronks' Theater and Attraction Buildings",
-       "href": "/locations/ronks"
+       "href": "/service-areas/ronks"
       },
       {
        "label": "Roofing for Manufacturing Plants in Lancaster County",
@@ -5131,7 +5131,7 @@
       },
       {
        "label": "Roofing for Christiana's Rail-Side Warehouses and Suppliers",
-       "href": "/locations/christiana"
+       "href": "/service-areas/christiana"
       },
       {
        "label": "Roofing for Event Venues and Production Facilities",
@@ -5177,7 +5177,7 @@
       },
       {
        "label": "Roofing Contractors Serving Ephrata's Manufacturing and Medical Buildings",
-       "href": "/locations/ephrata"
+       "href": "/service-areas/ephrata"
       },
       {
        "label": "Roofing for Distribution and Logistics Centers",
@@ -5223,7 +5223,7 @@
       },
       {
        "label": "Roofing for Intercourse's Shop Clusters and Kitchen Kettle Village",
-       "href": "/locations/intercourse"
+       "href": "/service-areas/intercourse"
       },
       {
        "label": "Roofing for Food and Beverage Processing Plants",
@@ -5269,7 +5269,7 @@
       },
       {
        "label": "Industrial Roofing for New Holland's Ag-Manufacturing Sector",
-       "href": "/locations/new-holland"
+       "href": "/service-areas/new-holland"
       },
       {
        "label": "Roofing for Manufacturing Plants in Lancaster County",
@@ -5315,7 +5315,7 @@
       },
       {
        "label": "Roofing for Downtown Lancaster's Office, Market, and Hotel Buildings",
-       "href": "/locations/downtown-lancaster"
+       "href": "/service-areas/downtown-lancaster"
       },
       {
        "label": "Roofing for K-12 Public Schools and District Facilities",

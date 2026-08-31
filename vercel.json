@@ -1,0 +1,320 @@
+{
+  "rewrites": [],
+  "redirects": [
+    {
+      "source": "/locations/:path*",
+      "destination": "/service-areas/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/adamstown",
+      "destination": "/service-areas/adamstown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/adamstown/",
+      "destination": "/service-areas/adamstown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/akron",
+      "destination": "/service-areas/akron",
+      "permanent": true
+    },
+    {
+      "source": "/locations/akron/",
+      "destination": "/service-areas/akron",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bird-in-hand",
+      "destination": "/service-areas/bird-in-hand",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bird-in-hand/",
+      "destination": "/service-areas/bird-in-hand",
+      "permanent": true
+    },
+    {
+      "source": "/locations/brownstown",
+      "destination": "/service-areas/brownstown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/brownstown/",
+      "destination": "/service-areas/brownstown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/christiana",
+      "destination": "/service-areas/christiana",
+      "permanent": true
+    },
+    {
+      "source": "/locations/christiana/",
+      "destination": "/service-areas/christiana",
+      "permanent": true
+    },
+    {
+      "source": "/locations/columbia",
+      "destination": "/service-areas/columbia",
+      "permanent": true
+    },
+    {
+      "source": "/locations/columbia/",
+      "destination": "/service-areas/columbia",
+      "permanent": true
+    },
+    {
+      "source": "/locations/denver",
+      "destination": "/service-areas/denver",
+      "permanent": true
+    },
+    {
+      "source": "/locations/denver/",
+      "destination": "/service-areas/denver",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-lancaster",
+      "destination": "/service-areas/downtown-lancaster",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-lancaster/",
+      "destination": "/service-areas/downtown-lancaster",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-lampeter-township",
+      "destination": "/service-areas/east-lampeter-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-lampeter-township/",
+      "destination": "/service-areas/east-lampeter-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-petersburg",
+      "destination": "/service-areas/east-petersburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-petersburg/",
+      "destination": "/service-areas/east-petersburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ephrata",
+      "destination": "/service-areas/ephrata",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ephrata/",
+      "destination": "/service-areas/ephrata",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gap",
+      "destination": "/service-areas/gap",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gap/",
+      "destination": "/service-areas/gap",
+      "permanent": true
+    },
+    {
+      "source": "/locations/intercourse",
+      "destination": "/service-areas/intercourse",
+      "permanent": true
+    },
+    {
+      "source": "/locations/intercourse/",
+      "destination": "/service-areas/intercourse",
+      "permanent": true
+    },
+    {
+      "source": "/locations/landisville",
+      "destination": "/service-areas/landisville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/landisville/",
+      "destination": "/service-areas/landisville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/leola",
+      "destination": "/service-areas/leola",
+      "permanent": true
+    },
+    {
+      "source": "/locations/leola/",
+      "destination": "/service-areas/leola",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lititz",
+      "destination": "/service-areas/lititz",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lititz/",
+      "destination": "/service-areas/lititz",
+      "permanent": true
+    },
+    {
+      "source": "/locations/manheim",
+      "destination": "/service-areas/manheim",
+      "permanent": true
+    },
+    {
+      "source": "/locations/manheim/",
+      "destination": "/service-areas/manheim",
+      "permanent": true
+    },
+    {
+      "source": "/locations/manheim-township",
+      "destination": "/service-areas/manheim-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/manheim-township/",
+      "destination": "/service-areas/manheim-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/marietta",
+      "destination": "/service-areas/marietta",
+      "permanent": true
+    },
+    {
+      "source": "/locations/marietta/",
+      "destination": "/service-areas/marietta",
+      "permanent": true
+    },
+    {
+      "source": "/locations/millersville",
+      "destination": "/service-areas/millersville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/millersville/",
+      "destination": "/service-areas/millersville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mount-joy",
+      "destination": "/service-areas/mount-joy",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mount-joy/",
+      "destination": "/service-areas/mount-joy",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mountville",
+      "destination": "/service-areas/mountville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mountville/",
+      "destination": "/service-areas/mountville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/new-holland",
+      "destination": "/service-areas/new-holland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/new-holland/",
+      "destination": "/service-areas/new-holland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/paradise",
+      "destination": "/service-areas/paradise",
+      "permanent": true
+    },
+    {
+      "source": "/locations/paradise/",
+      "destination": "/service-areas/paradise",
+      "permanent": true
+    },
+    {
+      "source": "/locations/quarryville",
+      "destination": "/service-areas/quarryville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/quarryville/",
+      "destination": "/service-areas/quarryville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/reamstown",
+      "destination": "/service-areas/reamstown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/reamstown/",
+      "destination": "/service-areas/reamstown",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ronks",
+      "destination": "/service-areas/ronks",
+      "permanent": true
+    },
+    {
+      "source": "/locations/ronks/",
+      "destination": "/service-areas/ronks",
+      "permanent": true
+    },
+    {
+      "source": "/locations/strasburg",
+      "destination": "/service-areas/strasburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/strasburg/",
+      "destination": "/service-areas/strasburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/terre-hill",
+      "destination": "/service-areas/terre-hill",
+      "permanent": true
+    },
+    {
+      "source": "/locations/terre-hill/",
+      "destination": "/service-areas/terre-hill",
+      "permanent": true
+    },
+    {
+      "source": "/locations/willow-street",
+      "destination": "/service-areas/willow-street",
+      "permanent": true
+    },
+    {
+      "source": "/locations/willow-street/",
+      "destination": "/service-areas/willow-street",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/service-areas",
+      "permanent": true
+    }
+  ]
+}
