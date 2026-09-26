@@ -1,0 +1,57 @@
+{
+  "domain": "commercialroofingcontractorslancaster.com",
+  "images": {
+    "/images/brand/logo-on-light.png": {
+      "width": 622,
+      "height": 391,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/b31c956ae33a624e.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/36bded029124176b.webp",
+          "width": 622
+        }
+      ],
+      "mobileSize": "69px"
+    },
+    "/ours/services/commercial-roof-inspection-commercial-roofing-contractors-lancaster-pa.webp": {
+      "width": 1400,
+      "height": 1050,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/a977471727e6a303.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/5ea9c55a7e8d13d3.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/89e3c654329a2cfc.webp",
+          "width": 1240
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/194626bdc2e7ec96.webp",
+          "density": 1,
+          "width": 576
+        },
+        {
+          "src": "/performance/fleet-images/93c55762af8bb986.webp",
+          "density": 2,
+          "width": 1152
+        },
+        {
+          "src": "/performance/fleet-images/4d1c21869e1b61ee.webp",
+          "density": 3,
+          "width": 1400
+        }
+      ]
+    }
+  },
+  "lazyImages": [],
+  "lazyBackgrounds": []
+}

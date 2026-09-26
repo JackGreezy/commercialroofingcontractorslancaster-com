@@ -1,3 +1,4 @@
+import { optimizeFleetImages } from "../../scripts/optimize-fleet-images.mjs";
 import { withLiveWeatherResponse } from "../../lib/live-weather-activation";
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -17,6 +18,7 @@ const publicDir = path.join(process.cwd(), "public");
 const analytics = '<script defer src="/_vercel/insights/script.js" data-sdkn="@vercel/analytics/next" data-sdkv="2.0.1"></script>';
 
 function withVercelAnalytics(html) {
+  html = optimizeFleetImages(html);
   if (!html) return html;
   let result = html;
   if (!result.includes('/_vercel/insights/script.js')) {
