@@ -1,3 +1,4 @@
+import { withLiveWeatherResponse } from "../../lib/live-weather-activation";
 import fs from "node:fs/promises";
 import path from "node:path";
 
@@ -72,7 +73,7 @@ async function htmlResponse(parts, request, status = 200) {
   });
 }
 
-export async function GET(request, context) {
+async function weatherOriginalGET(request, context) {
   const parts = routeFromParams(await context.params);
   if (parts.join("/") === "_serverless/pro-gallery-css-v4-server/layoutCss") {
     return new Response("/* Gallery layout is pre-rendered in the page markup. */", {
@@ -87,4 +88,8 @@ export async function GET(request, context) {
   if (page) return page;
   const notFound = await htmlResponse(["404"], request, 404);
   return notFound || new Response("Not found", { status: 404 });
+}
+
+export async function GET(request, context) {
+  return withLiveWeatherResponse(await weatherOriginalGET(request, context), "commercialroofingcontractorslancaster-com", request);
 }
