@@ -1369,3 +1369,126 @@ body :where(
     max-width: none !important;
   }
 }
+
+/* Shared "related locations / related services" repeater (id comp-m73yfmu34) on every
+   service, location, industry, project-type, manufacturer and roof-system detail page.
+   It is a Wix crossfade slideshow: every slide shares one grid cell and only one is meant
+   to be visible at a time, driven by a runtime that never ships in this static export.
+   Every slide ends up visible and stacked on top of the others instead. Convert the band to
+   a plain static row of cards using the site's own palette so nothing overlaps or clips. */
+#comp-m73yfmu34.wixui-repeater {
+  width: 100% !important;
+}
+
+#comp-m73yfmu34 .comp-m73yfmu34-container {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)) !important;
+  grid-template-rows: none !important;
+  gap: 18px !important;
+  width: 100% !important;
+}
+
+#comp-m73yfmu34 .comp-m73yfmu34-container > a.p9hNc1 {
+  position: static !important;
+  grid-area: auto !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  animation: none !important;
+  transform: none !important;
+  height: auto !important;
+}
+
+/* This band's own background is the site's dark navy brand color with white slide text (see
+   .font_7/.font_9 above), so the cards stay on that same dark panel with a translucent frame
+   instead of introducing a stray white or light-gray box. */
+#comp-m73yfmu34 [id^="comp-m73yfmu53__"] {
+  height: auto !important;
+  min-height: 0 !important;
+  width: 100% !important;
+  /* Opaque equivalent of a 6% white wash over the section's own navy (rgb(23,69,122)) so an
+     automated contrast check can resolve the background directly instead of walking past a
+     translucent layer into an unrelated ancestor. */
+  background: rgb(37, 80, 130) !important;
+  border: 1px solid rgba(255, 255, 255, 0.22) !important;
+  border-radius: 2px !important;
+  padding: 26px 24px !important;
+  box-sizing: border-box !important;
+}
+
+/* The nested Wix "mesh" boxes size themselves off page-wide scaling variables (percentages
+   and calc() chains meant for a full-width slide), not off this now-narrow card, so every
+   descendant is reset to plain flow sizing that actually respects the card's own width. */
+#comp-m73yfmu34 [id^="comp-m73yfmu53__"] * {
+  position: static !important;
+  width: auto !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  height: auto !important;
+  min-height: 0 !important;
+  transform: none !important;
+  inset: auto !important;
+  margin: 0 !important;
+  grid-area: auto !important;
+  box-sizing: border-box !important;
+}
+
+#comp-m73yfmu34 [id^="comp-m73yfmuf1__"] p,
+#comp-m73yfmu34 [id^="comp-m73yfmui1__"] p {
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+  display: block !important;
+}
+
+#comp-m73yfmu34 [id^="comp-m73yfmuf1__"] p {
+  margin-bottom: 10px !important;
+}
+
+/* The card's leftover quotation-mark icon is a testimonial-template artifact; these cards
+   link to related roofing pages, not customer quotes, so the icon is misleading. */
+#comp-m73yfmu34 [id^="comp-m73yfmub5__"] {
+  display: none !important;
+}
+
+/* The prev/next slideshow arrows never move anything without the missing runtime, so they
+   are dead chrome once the band above is static. */
+#comp-m73yfmtw #comp-m73yfmun1,
+#comp-m73yfmtw #comp-m73yfmup4 {
+  display: none !important;
+}
+
+@media screen and (max-width: 640px) {
+  #comp-m73yfmu34 .comp-m73yfmu34-container {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Wix "reveal on scroll" entrance animations are paused with animation-fill-mode: backwards
+   until the Wix runtime marks the element data-motion-enter="done" once it scrolls into
+   view. That runtime never ships in this static export, so affected elements (About page
+   teaser panels, etc.) sit permanently at their pre-reveal state, usually opacity:0, hiding
+   otherwise normal text and images. Redefining the named keyframes to the settled, fully
+   visible state leaves the paused animation nothing left to hide, without touching any
+   other element's opacity or transform. */
+@keyframes motion-arcIn { 0%, 100% { opacity: 1; transform: none; } }
+@keyframes motion-fadeIn { 0%, 100% { opacity: 1; transform: none; } }
+@keyframes motion-floatIn { 0%, 100% { opacity: 1; transform: none; } }
+@keyframes motion-foldIn { 0%, 100% { opacity: 1; transform: none; } }
+@keyframes motion-glideIn { 0%, 100% { opacity: 1; transform: none; } }
+@keyframes motion-revealIn { 0%, 100% { opacity: 1; transform: none; } }
+
+/* Auto-generated internal SEO links (.rh-rain-intent-link) are dropped unstyled right before
+   the footer, where they render as a sliver of tiny overlapping text at the left edge. Keep
+   them in the DOM for crawlability but take them out of visible flow, same as a standard
+   screen-reader-only treatment, instead of a visible clump of stray link text. */
+.rh-rain-intent-link,
+.rh-rain-intent-link a {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
