@@ -1503,8 +1503,8 @@ body .rr-ih .rr-ih-eyebrow{display:inline-block;margin:0 0 18px;padding:4px 10px
 body .rr-ih h1{margin:0 0 18px;color:#fff;font-family:"Century Gothic",CenturyGothic,"Avant Garde",Helvetica,Arial,sans-serif;font-size:clamp(28px,3.2vw,40px);font-weight:700;line-height:1.22;letter-spacing:0}
 body .rr-ih .rr-ih-intro{margin:0 0 26px;max-width:none;color:#e8eef5;font-size:16px;line-height:1.6}
 body .rr-ih .rr-ih-actions{margin:0}
-html body .rr-ih a.rr-ih-cta{display:inline-block;padding:13px 24px;background:#d6a23d;color:#191d20!important;font-size:12px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;text-decoration:none;border-radius:0}
-html body .rr-ih a.rr-ih-cta:hover{background:#e0b052}
+html body .rr-ih a.rr-ih-btn{display:inline-block;padding:13px 24px;background:#d6a23d;color:#191d20!important;font-size:12px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;text-decoration:none;border-radius:0}
+html body .rr-ih a.rr-ih-btn:hover{background:#e0b052}
 body .rr-intent-copy{box-sizing:border-box;width:min(880px,calc(100% - 48px));max-width:none;margin:0 auto;padding:clamp(40px,5vw,70px) 0 0;color:#191d20}
 body .rr-intent-copy+.rr-intent-copy{padding-top:0}
 body .rr-intent-copy h2{margin:clamp(28px,3vw,42px) 0 14px;font-family:Arial,Helvetica,sans-serif;font-size:clamp(22px,2.4vw,27px);font-weight:700;line-height:1.65;letter-spacing:0;text-transform:none;color:#191d20}
