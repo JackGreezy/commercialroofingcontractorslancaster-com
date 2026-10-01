@@ -91,6 +91,22 @@ REGIONAL_PALETTE_KEYS = {
 }
 
 
+def fit_desc(text, limit):
+    """Trim a meta description to `limit` characters on a sentence or clause boundary so it never ends mid-word or on a dangling connector."""
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) <= limit:
+        return text
+    cut = text[:limit]
+    end = max(cut.rfind(". "), cut.rfind("! "), cut.rfind("? "))
+    if end >= 80:
+        return cut[: end + 1]
+    clause = max(cut.rfind(", "), cut.rfind("; "), cut.rfind(": "))
+    base = cut[:clause] if clause >= 80 else cut[: cut.rfind(" ")]
+    base = base.rstrip(" ,;:")
+    base = re.sub(r"\s+(?:and|or|with|the|a|an|of|in|for|to|by|across|near|from|on|at)$", "", base).rstrip(" ,;:")
+    return base + "."
+
+
 def clean(value: object) -> str:
     return str(value or "").strip()
 
@@ -186,7 +202,7 @@ def meta_for(route: str, soup: BeautifulSoup | None = None) -> tuple[str, str]:
             return f"{label} | {name}", f"Explore {label.lower()} from {name} for commercial roofing facilities across {region}."
         desc = info.get("meta") or f"{info['name']} from {name} for commercial roofing properties across {region}."
         suffix = TAX_TITLE_SUFFIX.get(info.get("tax", ""), "Commercial Roofing")
-        return f"{info['name']} {suffix} in {city} | {name}", desc[:155].rstrip(" ,.;")
+        return f"{info['name']} {suffix} in {city} | {name}", fit_desc(desc, 155)
     h1 = strip_tags(str(soup.find("h1"))) if soup and soup.find("h1") else ""
     label = h1 or route.strip("/").replace("-", " ").title()
     return f"{label} | {name}", f"{name} provides commercial roofing guidance for {label.lower()} across {region}."
@@ -241,7 +257,7 @@ def upsert_meta(soup: BeautifulSoup, attr: str, key: str, content: str):
 def set_metadata(soup: BeautifulSoup, route: str):
     soup = ensure_head(soup)
     title, desc = meta_for(route, soup)
-    desc = re.sub(r"\s+", " ", desc).strip()[:158].rstrip(" ,.;")
+    desc = fit_desc(desc, 158)
     if soup.title:
         soup.title.string = title
     else:
