@@ -1,0 +1,56 @@
+{
+  "revision": "roofing-speed-v1",
+  "domain": "commercialroofingcontractorslancaster.com",
+  "images": {
+    "/images/brand/logo-on-light.png": "/performance/roofing-v1/9faa9d9ea3fc4d9c06238692.webp",
+    "/ours/manufacturers/gaf-commercial-commercial-roofing-contractors-lancaster-pa.webp": "/performance/roofing-v1/131cfe57a33b9c3228000ca1.webp",
+    "/ours/roof-systems/spray-polyurethane-foam-commercial-roofing-contractors-lancaster-pa.webp": "/performance/roofing-v1/ef2edd12484bbd9b388075f4.webp",
+    "/ours/services/edge-metal-coping-gutters-commercial-roofing-contractors-lancaster-pa.webp": "/performance/roofing-v1/221d85c35dcd0976438a8bbf.webp",
+    "/ours/services/epdm-commercial-roofing-commercial-roofing-contractors-lancaster-pa.webp": "/performance/roofing-v1/579817532258da04cc844834.webp"
+  },
+  "assets": [
+    {
+      "from": "/images/brand/logo-on-light.png",
+      "to": "/performance/roofing-v1/9faa9d9ea3fc4d9c06238692.webp",
+      "width": 622,
+      "height": 391,
+      "beforeBytes": 135200,
+      "afterBytes": 106768
+    },
+    {
+      "from": "/ours/manufacturers/gaf-commercial-commercial-roofing-contractors-lancaster-pa.webp",
+      "to": "/performance/roofing-v1/131cfe57a33b9c3228000ca1.webp",
+      "width": 1920,
+      "height": 1300,
+      "beforeBytes": 78908,
+      "afterBytes": 57246
+    },
+    {
+      "from": "/ours/roof-systems/spray-polyurethane-foam-commercial-roofing-contractors-lancaster-pa.webp",
+      "to": "/performance/roofing-v1/ef2edd12484bbd9b388075f4.webp",
+      "width": 2000,
+      "height": 1500,
+      "beforeBytes": 131952,
+      "afterBytes": 94854
+    },
+    {
+      "from": "/ours/services/edge-metal-coping-gutters-commercial-roofing-contractors-lancaster-pa.webp",
+      "to": "/performance/roofing-v1/221d85c35dcd0976438a8bbf.webp",
+      "width": 1080,
+      "height": 810,
+      "beforeBytes": 104830,
+      "afterBytes": 82478
+    },
+    {
+      "from": "/ours/services/epdm-commercial-roofing-commercial-roofing-contractors-lancaster-pa.webp",
+      "to": "/performance/roofing-v1/579817532258da04cc844834.webp",
+      "width": 1920,
+      "height": 1440,
+      "beforeBytes": 245972,
+      "afterBytes": 187546
+    }
+  ],
+  "createdAt": "2026-11-21T02:05:15.868Z",
+  "fonts": [],
+  "fontFailures": []
+}
